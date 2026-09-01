@@ -20,4 +20,50 @@ Group Meeting Time: Thursday 2:45PM - 4:00PM Thursday
 [ ] Complete court documents   
 [ ] ACM Code   
 [ ] Additional credible sources   
-[ ] One PDF   
+[ ] One PDF  
+
+#Project Phase Check List
+
+## Part 1 - Case Synopsis
+  400+ Words   
+  Stakeholders   
+  Case details    
+  Major events    
+  Actions/decisions    
+  Issues   
+  Outcome   
+  Stakeholder reactions    
+  Citations    
+## Part 2 - Personal Ethics
+  300+ words 
+  Personal ethical reasoning 
+  Reasons explained 
+  Alternatives  
+  Different viewpoints   
+  Supporting references   
+## Part 3 - Professional Ethics
+  300+ words   
+  ACM principles   
+  Principle numbers   
+  Specific application   
+  What should have been done   
+  ACM citations  
+## Part 4 - Comparison
+  200+ words   
+  Direct comparison   
+  Similarities   
+  Differences   
+  Evaluation   
+## Part 5 - References
+  5+ references   
+  Complete court documents   
+  ACM Code   
+  Additional credible sources   
+  Every reference cited   
+  Every citation referenced   
+
+
+
+
+
+
