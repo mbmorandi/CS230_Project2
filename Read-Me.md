@@ -10,14 +10,14 @@ Important deadlines:
 - Week 5 (Sep 28 - Oct 4) - Final Report
 
 
-Project Overview Check List
+# Project Overview Check List
 
-Part 1 — 400 words
-Part 2 — 300 words
-Part 3 — 300 words
-Part 4 — 200 words
-Part 5 — 5+ references
-Complete court documents
-ACM Code
-Additional credible sources
-One PDF
+☐ Part 1 — 400 words
+☐ Part 2 — 300 words
+☐ Part 3 — 300 words
+☐ Part 4 — 200 words
+☐ Part 5 — 5+ references
+☐ Complete court documents
+☐ ACM Code
+☐ Additional credible sources
+☐ One PDF
