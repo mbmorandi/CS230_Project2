@@ -14,23 +14,23 @@ Here is a breakdown of what our group discussed during the meeting:
     - initially viewed the ethical question as how we should define the level of responsibility a company should have for its user base
     - findings reveal how Grokster advertised to napster users who were known to be violating copy right laws
     - ethics of ensuring tech companies abide by laws
-- divided the research among eachother:
-    Misha
+- divided the research among eachother:   
+    Misha.  
     Court documents
     Court timeline
     Legal decisions
     
-    Mursal
+    Mursal.  
     Stakeholders
     Technology
     Case background
     
-    Azhan
+    Azhan.  
     Personal ethics research
     Ethical arguments
     Supporting sources
     
-    Gabriel
+    Gabriel.  
     ACM Code
     Relevant principles
     Professional ethics research
