@@ -7,3 +7,6 @@ Information to include for each source:
   4. Publisher/Site
   5. Link
   6. Intended Use
+
+Please add sources below this line.  
+-----------------------------------------------------------------------------------------------------
