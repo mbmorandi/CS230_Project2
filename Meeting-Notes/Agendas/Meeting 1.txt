@@ -69,3 +69,5 @@ Quick overview of how project three and project two are related.
 - What safeguards should developers build?
 - What happens when company interests conflict with users/rightsholders?
 - How should companies respond when harmful uses become predictable?
+
+Resources for learning about OKR's https://borg.csueastbay.edu/~grewe/CS230/Mat/Lectures/Entrepreneur/Entrepreneur.html
