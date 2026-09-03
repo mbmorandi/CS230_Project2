@@ -2,8 +2,6 @@
 
 Leave the meeting with everyone knowing exactly what they're responsible for.
 
-
-
 2:45–2:55 — Review assignment
 Go through the requirements together.
 Make sure everyone understands:
@@ -31,22 +29,22 @@ Don't try to solve the ethical questions yet.
 3:10–3:30 — Divide research responsibilities
 Divide research topics
 
-Person A
+Person A Misha
 Court documents
 Court timeline
 Legal decisions
 
-Person B
+Person B Mursal
 Stakeholders
 Technology
 Case background
 
-Person C
+Person C Azhan
 Personal ethics research
 Ethical arguments
 Supporting sources
 
-Person D 
+Person D Gabriel
 ACM Code
 Relevant principles
 Professional ethics research
