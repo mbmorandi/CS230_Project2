@@ -1,7 +1,7 @@
 🎯 Meeting 1 Main objective 
 
 Leave the meeting with everyone knowing exactly what they're responsible for.
-Quick overview of how project three and project two are related. 
+
 
 
 2:45–2:55 — Review assignment
@@ -59,10 +59,15 @@ How will you communicate?
 How will you track sources?
 Who will eventually combine the report?
 
-3:45–4:00 — Establish deadlines
+3:45–3:50 — Establish deadlines
 Agree that by September 10, everyone brings their initial research.
 Meeting 1 deliverable
 By the time you leave:
 Research responsibilities + shared workspace + individual deadlines
 
-
+3:50-4:00 - Go over project three
+Quick overview of how project three and project two are related. 
+- How can a company be responsible for how users misuse its technology?
+- What safeguards should developers build?
+- What happens when company interests conflict with users/rightsholders?
+- How should companies respond when harmful uses become predictable?
