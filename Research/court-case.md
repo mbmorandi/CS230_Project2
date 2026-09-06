@@ -100,3 +100,97 @@ Page References:
 **Grokster and Streamcast might have deliberately designed their business to avoid liability** an issue that must be addressed by congress (for law changes) 
 
 Summary: MGM studios and other entertainment companies/artists sued Grokster and Streamcast for copyright infringement. p2p software companies argued that they are not responsible for how people use their application. The court examined how the technology worked specifically focusing on the decentralized component that distringuished it from Napster. Napster was a former tech company that also marketed p2p software, but theirs was centralized, meaning napster had access to data regarding p2p software transfers. After discussing the technology, the court shifted the focus to **secondary copyright infringement** the court accepted that users were copyrighting information using Grokster and streamcast. The court then asked if they were aware, which they were aware of, genreally speaking. The court then examined Sony Corp. v. Universal City Studios, a case that previously established that a tech company is not responsible for users use of the tech. Grokster and streamcast are generally aware of infringement but not aware of particular instances of it. MGM then argued that the software itself enabled infrindgemnt -> court replied that G + S are different from napster (decentralized). Contributory copyright infrindgemnt is not proven. MGM -> vicarious infringement. court cannot establish vicarious infrigment because while they benefit financially from copyright infringment, they do not supervise these activities. After both of these arguments were presented, mgm argued that G + S should change their software to prevent these issues. Once again, the decentralized aspect of their tech does not support this request. The case concludes once the judge discusses the possibility that grokster and streamcast purposely designed their software to avoid liability. 
+
+## Ninth Circuit
+
+The ninth circuit followed the same argument and came to the same conclusion as the district court. There is one additional detail: 
+Blind eye argument: Grokster and streamcast shouldn't be allowed to deliberately ignore piracy and then claim they aren't responsible. 
+Response: decentralized, no supervision 
+
+MGM studios and others wanted copyright law adjustments  
+The 9th district responded with: "The introduction of new technology is always disruptive to old markets." 
+
+## Supreme Court
+
+Court: U.S. Supreme Court 
+Argued: March 29, 2005 
+Decided: June 27, 2005 
+Result: The Supreme Court vacated the Ninth Circuit’s judgment and sent the case back to the lower courts. 
+
+When can a company that creates or distributes a technology be held responsible when its customers use that technology to violate copyright law? 
+The Supreme Court ultimately said: 
+
+A company can be responsible if it distributes a product with the purpose of encouraging people to use it for copyright infringement and takes active steps to promote that infringement. 
+
+MGM and other copyright owners argued that Grokster and StreamCast shouldn't escape responsibility simply because their software was technically capable of legal uses. 
+
+Their argument was essentially: 
+
+These companies knew what their users were doing, encouraged it, built their businesses around it, and profited from having huge numbers of users engaged in file sharing. 
+
+The supreme court looked at the Sony case example examined by the lower courts and agreed that technology companies cannot be responsible for user misuse if its product has  substantial legal use. HOWEVER, the supreme court argued that this protection does not extend to intent. There is a difference between:  
+A: Creating a technology knowing that some people might misuse it. 
+and
+B: Creating/distributing a technology while actively trying to get people to misuse it. 
+The courts now had to examine what Grokster and StreamCast were actually trying to accomplish 
+
+The Court identified three especially important categories of evidence. 
+1. coveting former napster users
+2. did not try to reduce infringement (alone isn't sufficient, but combined with other evidence is) 
+3. business model benefited from enormous usage - made money from advertising to masses. numbers mostly came from people using illegally 
+
+The Court concluded:
+“The unlawful objective is unmistakable.” 
+That's one of the strongest statements in the entire decision. 
+
+the Court focused on intentional encouragement. 
+
+Vacated = the Supreme Court wiped out/set aside the Ninth Circuit's judgment. 
+
+Remanded = the Supreme Court sent the case back down for additional proceedings using the legal rule the Supreme Court had explained. 
+
+So this wasn't simply: 
+
+"MGM automatically wins everything." 
+
+It was closer to: 
+
+"The lower courts used the wrong legal analysis when they ruled for Grokster. There is enough evidence that Grokster intentionally encouraged infringement that MGM's case must be allowed to proceed." 
+
+The Supreme Court did not conduct a trial and declare a specific amount of damages against Grokster. Instead, it established the inducement rule and told the lower court to reconsider the case under that rule. 
+
+November 7, 2005 — Grokster settled instead of continuing the fight. Only a few months later, Grokster reached a settlement with the movie studios and music companies. Grokster agreed to stop distributing its file-sharing software, shut down its existing service, accept a permanent injunction against facilitating infringement, and pay $50 million under the settlement. Its website was replaced with a notice telling users that the service was no longer available. 
+
+StreamCast, the company behind Morpheus, did not immediately settle. 
+That meant the District Court actually got an opportunity to apply the Supreme Court's new inducement rule to one of the defendants. 
+MGM wins. StreamCast is liable. 
+2007, the District Court dealt with what should actually be done about StreamCast. It ultimately issued a permanent injunction restricting StreamCast's operation and distribution of Morpheus. 
+
+## Case Timeline 
+
+2003 — District Court 
+→ Grokster/StreamCast win summary judgment. 
+
+2004 — Ninth Circuit 
+→ Affirms the District Court. 
+→ Grokster/StreamCast still win. 
+
+June 2005 — Supreme Court 
+→ Unanimously rejects the Ninth Circuit's reasoning. 
+→ Establishes the inducement rule. 
+→ Vacates the Ninth Circuit judgment. 
+→ Sends the case back down. 
+
+November 2005 — Grokster settles 
+→ Grokster shuts down its existing service. 
+→ Agrees to a permanent injunction. 
+→ Settlement calls for $50 million. 
+
+September 2006 — District Court on remand 
+→ StreamCast continues fighting. 
+→ District Court applies the Supreme Court's rule. 
+→ MGM wins summary judgment on StreamCast's liability. 
+
+2007 — District Court 
+→ Court issues a permanent injunction against StreamCast concerning Morpheus. 
+
