@@ -194,3 +194,6 @@ September 2006 — District Court on remand
 2007 — District Court 
 → Court issues a permanent injunction against StreamCast concerning Morpheus. 
 
+## Document showing what happened after the case went back to the lower courts 
+https://w2.eff.org/IP/P2P/MGM_v_Grokster/mgm-v-grokster_518_F_SUPP_2D_1197.pdf 
+
