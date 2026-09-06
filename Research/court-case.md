@@ -90,11 +90,13 @@ The court also agreed that Grokster and StreamCast financially benefited from ha
 However, under the copyright rules the court applied, those facts were not enough. 
 The court concluded that Grokster and StreamCast were not sufficiently involved in or able to control individual acts of infringement to be held liable for contributory or  vicarious copyright infringement. 
 
+Page References: 
+1. users infringing P 18-19 
+2. Sony Protects technologies with legit uses p 20-22 
+3. grokster isn't napster p24-26 
+4. mgm proves financial benefit but can't prove control p 27-30 
+5. the judge recognizes a potential loophole p 32 
 
-
-Quotations:
-
-Page References:
-
+**Grokster and Streamcast might have deliberately designed their business to avoid liability** an issue that must be addressed by congress (for law changes) 
 
 
