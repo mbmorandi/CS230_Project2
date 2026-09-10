@@ -174,6 +174,8 @@ That meant the District Court actually got an opportunity to apply the Supreme C
 MGM wins. StreamCast is liable. 
 2007, the District Court dealt with what should actually be done about StreamCast. It ultimately issued a permanent injunction restricting StreamCast's operation and distribution of Morpheus. 
 
+NOTE: The case began as a secondary copyright infringement dispute, but by the Supreme Court stage, the central issue became whether Grokster and StreamCast had intentionally induced users to infringe copyrights.
+
 ## Case Timeline 
 
 2003 — District Court 
