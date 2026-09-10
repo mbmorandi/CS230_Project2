@@ -1,4 +1,4 @@
-# Mursal
+# Mursal Hamidy's Research 
 ## Major Stakeholders
 ### MGM and the other copyright owners: 
 MGM represented a large group of motion-picture studios, recording companies, songwriters, and music publishers. These parties owned copyrights in movies and music that users shared without authorization. They wanted to protect their intellectual property, maintain control over the distribution of their work, and prevent financial harm. They sued Grokster and StreamCast, requested damages and an injunction, and appealed after the lower courts ruled for the software companies [1].
