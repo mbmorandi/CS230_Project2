@@ -210,8 +210,8 @@ https://w2.eff.org/IP/P2P/MGM_v_Grokster/mgm-v-grokster_518_F_SUPP_2D_1197.pdf
 ## Passages
 
 District Court, PDF p. 27: VCRs and copy machines 
-District Court, PDF pp. 30–33: Proposed software filters 
-Ninth Circuit, PDF p. 23: Software upgrades 
-Supreme Court, PDF pp. 21–22: Other theories of liability 
-Supreme Court, PDF pp. 26–28: Evidence of unlawful intent 
+District Court, PDF pp. 30–33: Proposed software filters  
+Ninth Circuit, PDF p. 23: Software upgrades   
+Supreme Court, PDF pp. 21–22: Other theories of liability  
+Supreme Court, PDF pp. 26–28: Evidence of unlawful intent  
 
