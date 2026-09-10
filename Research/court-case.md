@@ -12,8 +12,8 @@ Court: United States District Court for the Central District of California.
 Judge: Stephen V. Wilson.  
 
 Plantiffs: MGM Studios, Paramount, Sony, Disney, Universal Studios, and other artists/producers 
-Defendants: Grokster and Streamcast networks (Morpheus) 
-Question: Could Grokster and StreamCast be held liable for users’ copyright infringement through contributory or vicarious infringement?
+Defendants: Grokster and Streamcast networks (Morpheus)  
+Question: Could Grokster and StreamCast be held liable for users’ copyright infringement through contributory or vicarious infringement? 
 
 The big question: Should Grokster and StreamCast themselves be legally responsible for copyright infringement committed by people using their software? 
 Grokster and Streamcast argument: “We provide the software. We don't control what individual users decide to do with it.” 
