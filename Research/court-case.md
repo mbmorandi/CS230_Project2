@@ -13,7 +13,7 @@ Judge: Stephen V. Wilson.
 
 Plantiffs: MGM Studios, Paramount, Sony, Disney, Universal Studios, and other artists/producers 
 Defendants: Grokster and Streamcast networks (Morpheus) 
-Reason: users were sharing copyrighted material using p2p software 
+Question: Could Grokster and StreamCast be held liable for users’ copyright infringement through contributory or vicarious infringement?
 
 The big question: Should Grokster and StreamCast themselves be legally responsible for copyright infringement committed by people using their software? 
 Grokster and Streamcast argument: “We provide the software. We don't control what individual users decide to do with it.” 
@@ -111,6 +111,8 @@ Summary: MGM studios and other entertainment companies/artists sued Grokster and
 
 ## Ninth Circuit
 
+Question: Did the District Court make a legal mistake by ruling that Grokster and StreamCast were not liable for secondary copyright infringement? 
+
 The ninth circuit followed the same argument and came to the same conclusion as the district court. There is one additional detail: 
 Blind eye argument: Grokster and streamcast shouldn't be allowed to deliberately ignore piracy and then claim they aren't responsible. 
 Response: decentralized, no supervision 
@@ -123,6 +125,7 @@ The 9th district responded with: "The introduction of new technology is always d
 Court: U.S. Supreme Court 
 Argued: March 29, 2005 
 Decided: June 27, 2005 
+Question: Can a company be liable if it distributes a technology with the purpose of encouraging copyright infringement?
 Result: The Supreme Court vacated the Ninth Circuit’s judgment and sent the case back to the lower courts. 
 
 When can a company that creates or distributes a technology be held responsible when its customers use that technology to violate copyright law? 
