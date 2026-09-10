@@ -197,3 +197,21 @@ September 2006 — District Court on remand
 ## Document showing what happened after the case went back to the lower courts 
 https://w2.eff.org/IP/P2P/MGM_v_Grokster/mgm-v-grokster_518_F_SUPP_2D_1197.pdf 
 
+## Important Quotes to Add to Project
+“possibilities for upgrading software located on another person’s computer are irrelevant to determining whether vicarious liability exists.”
+— Ninth Circuit decision, PDF p. 23
+
+“This evidence alone would not justify an inference of unlawful intent, but viewed in the context of the entire record its import is clear.”
+— Supreme Court opinion, PDF p. 27
+
+“Grokster and StreamCast are not significantly different from companies that sell home video recorders or copy machines.”
+— District Court order, PDF p. 27
+
+## Passages
+
+District Court, PDF p. 27: VCRs and copy machines 
+District Court, PDF pp. 30–33: Proposed software filters 
+Ninth Circuit, PDF p. 23: Software upgrades 
+Supreme Court, PDF pp. 21–22: Other theories of liability 
+Supreme Court, PDF pp. 26–28: Evidence of unlawful intent 
+
