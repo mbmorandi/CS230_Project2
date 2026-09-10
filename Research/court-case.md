@@ -1,3 +1,11 @@
+## The Dispute:
+
+MGM Studios and others believe Grokster and Streamcast are infringing on copyright laws
+
+## The Lawsuit:
+
+MGM Studios sues Grokster in federal court (first layer of federal court is the district court)
+
 ## District Court
 
 Court: United States District Court for the Central District of California.  
