@@ -95,6 +95,27 @@ Other points to consider:
 - laws punishable by fines only apply to the poor
 - laws are not perfect, and I don't 100% agree with copyright laws. something about them just isn't right (ethically speaking).
 
+#### Personal Ethics - Gabe
+
+1. should unlimited freedom be prioritized over the possibility of putting others in harm?
+
+I think harm is a slippery term here as others have mentioned. The levels are tricky. Thinking about some of the harms that people experience via social media, online harassment, etc... In terms of the harm that is implied by this case - I think younger me would have been much less sympathetic to the media companies like MGM. There was a feeling that the large corporations just wanted to protect their already exploitive practices. 
+
+Now my stance has softened I suppose. It seems like even if the system is flawed in ways, that at least it attempts to protect intellectual and creative efforts. Since those efforts take time and energy and both deserve and need to be compensated for them to continue in a sustainable way. 
+
+2. Is it ethical for a business to profit through legitimate means if those means have indirect ethical consequences?
+
+Tricky one. I don't think its ethical but I think it's quite common. I feel like this gets at the heart of the case in terms of - indirect unethical consequences can occur but the question seems to become more about what the motivation and intent was by the company. 
+
+3. Where should we draw the line in protecting dual-use technology and protecting others that can potentially be harmed from it?
+
+I think it should generally be protected, and the unethical behavior attempted to be curbed as opposed to the technology itself. 
+
+4. Responsibilities of creators of technology for its harm.
+
+This one is hard to keep contained to something like copyright infringement. There are so many technologies which cause much more direct harm. While I don't necessarily think a company should be held responsible for all those harms the personal ethics in being part of something like that would be difficult. I think about it on a personal level in terms of what would I feel about working for a defense company or something similar. 
+
+   
 
 
 
