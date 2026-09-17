@@ -27,3 +27,6 @@ Intended use: Original District Court decision, P2P technology, contributory inf
 [4] Electronic Frontier Foundation. “MGM v. Grokster.” EFF Court Archive.
 Link: https://w2.eff.org/IP/P2P/MGM_v_Grokster/
 Intended use: Locate the complete District Court, Ninth Circuit, Supreme Court, and post-remand documents. This archive was approved by Professor Grewe.
+
+[5] U.S. Copyright Office. “What Is Copyright?”
+https://www.copyright.gov/what-is-copyright/
