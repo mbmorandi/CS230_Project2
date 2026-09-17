@@ -52,3 +52,49 @@ Legal and Economic Scholarship on Digital Copyright & Ethics
 Used for: Framing the ethical dilemmas concerning the value of creative labor, vicarious profiteering, the chilling effect on dual-use technological innovation, and platform stewardship versus absolute digital freedom.
 
 
+
+#### Personal Ethics - Misha 
+
+1. should unlimited freedom be prioritized over the possibility of putting others in harm?
+
+I believe that we should keep a technology as free (freedom) as we possibly can and only alter this freedom 
+  a. once harm on a large scale has been established (utilitarianism).
+  b. If the technology hurts smaller groups of people and is an unavoidable part of societal living.
+
+A technology that needs to be adjusted to reduce harm should try to retain as much freedom as possible under new limitations. 
+
+A technology that harms people and prioritizes freedom, if not a necessity to function within a society, should explicitly inform the user of risks (contract theory). 
+
+we should always strive to reduce harm. Though, harm itself can take many forms, and should be assessed. Not all harm is made equally. (a wealthy musician losing a percentage of their profits resulting in them not being able to buy a mansion is not the same as someone being harmed mentally, physically, or having basic needs go unmet. 
+
+
+2. Is it ethical for a business to profit through legitimate means if those means have indirect ethical consequences?
+
+this is an interesting point to consider within a capitalist society since there are many indirect and direct consequences of large scale business. This is a societal issue. I think a business that indirectly harms people (utilitarianism) is responsible for alleviating or reducing that harm. 
+
+3. Where should we draw the line in protecting dual-use technology and protecting others that can potentially be harmed from it?
+
+I think regulation should be carefully assessed in most situations. Educational awareness might help mitigate some of the issues involved. I think we should protect dual use technology as long as it's uses are reasonably balanced. 
+
+4. What responsibility do software developers have for how users misuse their technology?
+  are developers ethically responsible for assessing the consequences of their invention  and addressing issues with solutions
+  In other words, once you create something and push it out into the world, should you be responsible for how that creation then impacts the world?
+
+   what level of responsibility should we have? (should you only be responsible for its initial design or should you be responsible for the consequences of its existence)
+
+if you are aware that your creation is causing harm, what level of responsibility do you have to mitigate that issue?
+    in tech, are you ethically responsible for changing or patching a feature of your invention that is being used for illegally or unethically?
+
+are you ethically responsible for assessing foreseeable harm when inventing or creating new technology?
+
+Other points to consider:
+- copyright infringement is typically pursued legally by people with a lot of money. In a sense, it is a law used by the wealthy to protect future wealth attainment. 
+- interpretations of copyright laws are fuzzy, especially regarding tech
+- In the 90s CDs and DVDs inflated prices. I read an article about how in the 90s buying a whole CD for one song inflated the market. Now, songs can be purchased singularly which has impacted the industry. (they got comfortable making a lot of money, and that changed)
+- there are a lot of outdated laws
+- laws punishable by fines only apply to the poor
+- laws are not perfect, and I don't 100% agree with copyright laws. something about them just isn't right (ethically speaking).
+
+
+
+
