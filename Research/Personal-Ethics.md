@@ -116,6 +116,34 @@ I think it should generally be protected, and the unethical behavior attempted t
 This one is hard to keep contained to something like copyright infringement. There are so many technologies which cause much more direct harm. While I don't necessarily think a company should be held responsible for all those harms the personal ethics in being part of something like that would be difficult. I think about it on a personal level in terms of what would I feel about working for a defense company or something similar. 
 
    
+## Personal Ethics — Mursal
 
+### 1. Was Grokster’s behavior ethically appropriate?
+
+I do not believe Grokster’s behavior was ethically appropriate. Peer-to-peer technology itself was not wrong because it could be used for legal purposes. However, evidence showed that Grokster and StreamCast tried to attract former Napster users and benefited when more people used their programs. The Supreme Court found evidence that they actively encouraged copyright infringement [1]. In my view, knowingly encouraging illegal sharing for financial benefit was dishonest and unfair to creators.
+
+### 2. How responsible should a company be for its users’ behavior?
+
+A company should not automatically be responsible for every action taken by its users. Developers cannot predict or control every misuse of a product. However, a company should accept greater responsibility when harmful use becomes predictable, when the company encourages it, or when its business profits from it. Grokster and StreamCast knew that many users were sharing copyrighted works, yet they did not take meaningful action to discourage that behavior.
+
+### 3. How should copyright protection be balanced with technological innovation?
+
+Technology with both legal and illegal uses should not be prohibited simply because some users misuse it. Protecting innovation is important, but creators also deserve control over their original work. The U.S. Copyright Office explains that copyright protects original works such as music, movies, books, and software [5]. Therefore, companies should design innovative products while also respecting the rights of creators.
+
+### 4. What could Grokster have done differently?
+
+Grokster could have clearly warned users against copyright infringement, developed filtering or reporting tools, responded more seriously to infringement notices, and removed repeat offenders when possible. It could also have cooperated with copyright owners to create licensing agreements or developed a legal subscription service. These alternatives would have been ethically better because they could preserve useful peer-to-peer technology while reducing harm to creators.
+
+### 5. My conclusion
+
+My position is that the technology itself was not unethical, but the companies’ conduct was. Grokster and StreamCast should not be blamed merely for creating peer-to-peer software. They should be held ethically responsible because evidence showed that they encouraged infringement and benefited from it. Technology companies should consider foreseeable harm, communicate honestly, and introduce reasonable safeguards without unnecessarily limiting legal uses.
+
+## Supporting Sources
+
+[1] Supreme Court of the United States. *Metro-Goldwyn-Mayer Studios Inc. v. Grokster, Ltd.* June 27, 2005.  
+https://w2.eff.org/IP/P2P/MGM_v_Grokster/04-480.pdf
+
+[5] U.S. Copyright Office. “What Is Copyright?”  
+https://www.copyright.gov/what-is-copyright/
 
 
