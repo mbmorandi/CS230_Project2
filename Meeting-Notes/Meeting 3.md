@@ -6,24 +6,24 @@ Why?
 
 peer to peer not unethical but grokster and streamcast unethical because they encouraged copyright and benefited from it.   
 
-Identify agreement/disagreement
+Identify agreement/disagreement.  
       1. Responsibility for user behavior         
         a. mursal - Companies should be responsible for users when harm is predictable. 
         b. Azhan - how big is the issue?  
         c. misha - companies should be responsible for responding to new uses of their technology that are unethical or illegal.
-      2. Copyright                                 
-        a. Misha - copyright laws are fuzzy and used unequally
+      2. Copyright                                    
+        a. Misha - copyright laws are fuzzy and used unequally by people who hold more wealth and power. There is something within copyright laws that feels unethical.
         b. azhan - good to protect people's works, 
-        c. mursal - original owners, companies should have control over original work copies
+        c. mursal - original owners, companies should have control over original work copies.   
       3. Company responsibility for protecting copyright laws   
         a. misha - companies are required to be lawful entities (look up)
         b. Azhan - businesses should protect users 
         c. Mursal - responsibility depends on issue (big or small) encouraging illegal use
-      4. Encouraging infringement                  
+      4. Encouraging infringement                    
        a. all - companies should not encourage illegal behavior
-      5. Software innovation                       
+      5. Software innovation                        
         a. misha - a company should be responsible for altering its technology when presented with statistics or data showing that their innovation is causing harm
-      6. Alternative actions                       
+      6. Alternative actions                        
         a. misha - incorporated a way to prevent copyrighting, users agreement that if used incorrectly removed (terms of service), warn and educate about copyright, centralized the network and taken down copyrighted files
 
 alternatives
