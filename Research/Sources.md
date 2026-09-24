@@ -30,3 +30,36 @@ Intended use: Locate the complete District Court, Ninth Circuit, Supreme Court, 
 
 [5] U.S. Copyright Office. “What Is Copyright?”
 https://www.copyright.gov/what-is-copyright/
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Misha's Research Sources:
+
+[1] Author: Pamela Samuelson
+    Title: Three Reactions to MGM v. Grokster
+    Date: 2006
+    Publisher: Journals at University of Michigan Law School Scholarship Repository
+    Intended Use: Grokster’s marketing and encouragement of infringement.
+    Link: https://repository.law.umich.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1104&context=mttlr
+
+[2] Author: Josie Fraser
+    Title: Beyond Copyright: the Ethics of Open Sharing
+    Date: 2021
+    Publisher: Medium
+    Intended Use: organizations should make ethically informed, continuously reviewed sharing decisions. (supports argument that creators should have some responsibility for       their creations)
+    Link: https://medium.com/creative-commons-we-like-to-share/beyond-copyright-the-ethics-of-open-sharing-a495bb95569d
+
+[3] Author: William Patry
+    Title: The Role, or Not, of Ethics and Morality in Copyright LawThe Role, or Not, of Ethics and Morality in Copyrig
+    Date: 
+    Publisher: ONU Journals and Publications at DigitalCommons@ONU
+    Intended Use: copyright is not automatically moral and can become unethical when it restricts public access, creativity, education, or fair use.
+    Link: https://digitalcommons.onu.edu/cgi/viewcontent.cgi?article=1110&context=onu_law_review
+
+[4] Author: Wendy J. Gordon
+    Title: Moral Philosophy, Information Technology, and Copyright
+    Date: 2008
+    Publisher: Scholarly Commons at Boston University School of Law.
+    Intended Use: Gordon helps explain why Grokster’s intent and consequences matter ethically. Uses ethical frameworks for deeper analysis
+    Link: https://scholarship.law.bu.edu/cgi/viewcontent.cgi?article=2913&context=faculty_scholarship
+
+
+    
