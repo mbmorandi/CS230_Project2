@@ -1,7 +1,7 @@
 # Mursal Hamidy's Research 
 ## Major Stakeholders
 ### MGM and the other copyright owners: 
-MGM represented a large group of motion-picture studios, recording companies, songwriters, and music publishers. These parties owned copyrights in movies and music that users shared without authorization. They wanted to protect their intellectual property, maintain control over the distribution of their work, and prevent financial harm. They sued Grokster and StreamCast, requested damages and an injunction, and appealed after the lower courts ruled for the software companies [1].
+MGM and other copyright owners included motion-picture studios, recording companies, songwriters, and music publishers. These parties owned copyrights in movies and music that users shared without authorization. They wanted to protect their intellectual property, maintain control over the distribution of their work, and prevent financial harm. They sued Grokster and StreamCast, requested damages and an injunction, and appealed after the lower courts ruled for the software companies [1].
 
 ### Grokster:
 Grokster distributed free peer to peer file sharing software that used the FastTrack network. The company earned money by displaying advertisements to users. More users created more advertising opportunities. Grokster argued that its technology had legal uses and that it did not control the files exchanged by individual users. However, MGM presented evidence that Grokster tried to attract former Napster users and promoted access to popular copyrighted material [1].
