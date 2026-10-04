@@ -10,7 +10,7 @@ In 2003, the District Court granted partial summary judgment to Grokster and Str
 
 In 2005, the Supreme Court unanimously vacated the Ninth Circuit’s judgment. The Court did not declare peer-to-peer technology illegal. Instead, it focused on evidence that the companies attempted to attract former Napster users, benefited from increased advertising, and actively encouraged infringement. The Court established the inducement rule: a company may be liable when it distributes a product with the intention of promoting copyright infringement and takes affirmative steps to encourage that use [1].
 
-The Supreme Court sent the case back to the lower court for further proceedings. Therefore, MGM prevailed at the Supreme Court, but the Court did not award damages itself. It also provided guidance for future developers whose products could support lawful and unlawful activities online. The decision strengthened protection for copyright owners while preserving legal protection for technologies that have legitimate uses and are not intentionally promoted for unlawful activity.
+The Supreme Court sent the case back to the lower court for further proceedings. Therefore, MGM prevailed at the Supreme Court, but the Court did not award damages itself. It also provided guidance for future developers whose products could support lawful and unlawful activities online. The decision strengthened protection for copyright owners while preserving legal protection for technologies that have legitimate uses and are not intentionally promoted for unlawful activity. This decision also demonstrated that technology companies must take into account the manner in which their products are promoted and the manner in which users may utilize them.
 
 ## References
 
